@@ -1,0 +1,32 @@
+.row {
+    display: flex;
+    justify-content: space-around;
+}
+.mid{
+    background-image: url("riccardo-chiarini-365677-unsplash");
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+    border: groove;
+    padding: 30px;
+}
+.aboutme{
+    border:1px solid white; 
+    background-color: black;
+}
+h1{
+ color: #47c6e0;  
+ font-family: 'Inconsolata', monospace;
+}
+.rowfooter{
+    opacity:0.5;
+    text-align:center;
+}
+body{
+    font-family: 'Modern Antiqua', cursive;
+}
+h2{
+    font-family: 'Asap', sans-serif;
+    color: #42ebf4;
+}
